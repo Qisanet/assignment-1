@@ -1,0 +1,39 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+
+.a{
+    color: red;
+    justify-content: space-around;
+}
+.nav{
+   float: right;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.body{
+    height: 370px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+a:hover{
+    
+color: blue;
+
+}
